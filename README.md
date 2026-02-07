@@ -20,16 +20,16 @@ The goal of this project is to analyze customer behavior, identify churn pattern
 
 **The dataset used in this project contains customer information including:**
 
-Customer demographics
+  Customer demographics
 
-Account details
+- Account details
+ 
+- Services subscribed
 
-Services subscribed
+- Billing and payment information
 
-Billing and payment information
-
-Churn status
-
+- Churn status
+ 
 ## Dataset Source:
 (Telco Customer Churn Dataset – [https://www.kaggle.com/datasets/blastchar/telco-customer-churn])
 
@@ -37,45 +37,45 @@ Churn status
 
 **1️. Data Preprocessing**
 
-Handled missing values
+- Handled missing values
 
-Encoded categorical variables
+- Encoded categorical variables
 
-Feature scaling and transformation
+- Feature scaling and transformation
 
-Train-test data split
+- Train-test data split
 
 **2️. Exploratory Data Analysis (EDA)**
 
-Analyzed churn distribution
+- Analyzed churn distribution
 
-Identified churn trends across services and customer segments
+- Identified churn trends across services and customer segments
 
-Visualized correlations between features
+- Visualized correlations between features
 
 **3️. Model Building**
 
-Implemented multiple machine learning models including:
+- Implemented multiple machine learning models including:
 
-Logistic Regression
+- Logistic Regression
+ 
+- Random Forest Classifier
 
-Random Forest Classifier
-
-Decision Tree Classifier
+- Decision Tree Classifier
 
 **4️. Model Evaluation**
 
-Models were evaluated using:
+- Models were evaluated using:
 
-Accuracy Score
+- Accuracy Score
 
-Precision & Recall
+- Precision & Recall
 
-F1 Score
+- F1 Score
 
-Confusion Matrix
+- Confusion Matrix
 
-ROC-AUC Curve
+- ROC-AUC Curve
 
 **📈 Results & Insights**
 
