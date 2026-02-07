@@ -103,6 +103,6 @@ The goal of this project is to analyze customer behavior, identify churn pattern
 
 - Improve retention strategies
 
-Reduce revenue loss
+- Reduce revenue loss
 
-Enhance customer satisfaction
+- Enhance customer satisfaction
